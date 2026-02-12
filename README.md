@@ -8,41 +8,66 @@
 
 ---
 
-## Professional Summary
+## 👨‍💻 Professional Summary
 
 Experienced Golang Backend Developer with over 5 years in building scalable, high-performance applications, including blockchain protocols and microservices architectures. Expertise in algorithmic analytics, code optimization, and solving complex problems. Developed predictive algorithms boosting accuracy by 35% and systems handling millions of daily requests. Fast learner with strong analytical skills, eager to contribute to innovative projects at FAANG/MANGA-level companies. 
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 
 | Category                | Skills                                                                            |
 |:------------------------|:----------------------------------------------------------------------------------|
-| Languages & Frameworks  | Go, gRPC, REST API, Julia                                                         |
+| Languages & Frameworks  | Go, gRPC, REST API                                                                |
 | Databases & Storage     | PostgreSQL, Redis, ClickHouse, MinIO                                              |
 | Tools & Cloud           | Docker, Kubernetes, NATS, Kafka, Prometheus, Grafana, Terraform, CI/CD, Git, AWS  |
 | Other                   | Blockchain, Algorithmic Trading, Microservices, Problem Solving, Agile/Scrum      |
 
 ---
 
- Professional Experience
+## 💼 Professional Experience
  
- Tech LeadAnalytical Platform Company | September 2023 – Present  Architected software for a predictive analytics platform using custom algorithms blending biological models (virus evolution, DNA sequencing) and probabilistic methods, improving prediction accuracy by 40%.  
-Built two products: a microservices-based risk management platform (handling 1M+ queries/day) and a monolithic algorithmic trader for peak performance.  
-Led team collaborations, integrated CI/CD pipelines, reducing deployment time by 50%.
-Tech Stack: Go, gRPC, Blockchain, Kafka, Docker, PostgreSQL, Redis, Julia, Prometheus, Grafana, AWS, NATS.
+ ## Tech Lead
+ 
+ ### Analytical Platform Company | September 2023 – Present  
+ 
+ - Architected software for a predictive analytics platform using custom algorithms blending biological models (virus evolution, DNA sequencing) and probabilistic methods, improving prediction accuracy by 40%.  
+- Built two products: a microservices-based risk management platform (handling 1M+ queries/day) and a monolithic algorithmic trader for peak performance.  
+- Led team collaborations, integrated CI/CD pipelines, reducing deployment time by 50%.
 
-Golang DeveloperGaming Company | September 2023 – July 2024  Developed microservices architecture for gaming projects, including custom libraries and gRPC contracts, supporting 500K+ concurrent users.  
-Conducted testing and vulnerability fixes, enhancing security by 30% via Prometheus metrics.  
-Assisted backend and QA teams, optimizing code to reduce latency by 25%.
-Tech Stack: Go, gRPC, NATS, PostgreSQL, Redis, ClickHouse, CI/CD, Terraform, Prometheus, Grafana, AWS.
+**Tech Stack:** Go, gRPC, Blockchain, Kafka, Docker, PostgreSQL, Redis, Julia, Prometheus, Grafana, AWS, NATS.
 
-Golang DeveloperBanking Company | December 2021 – June 2023  Built banking services from scratch (transfers, loans, balances), including Service Desk for support and B2C phone-based payments, simplifying processes for 100K+ users.  
-Optimized card payment systems (Service Card Realizer) for 99.9% uptime with a focus on data security.  
-Collaborated on implementations, cutting transaction processing time by 20%.
-Tech Stack: Go, gRPC, PostgreSQL, Redis, CI/CD, Terraform, Prometheus, Grafana, AWS, NATS.
+---
 
+## Golang Developer
+
+### AI Technology | September 2023 – May 2024
+
+- Developed microservices architecture for gaming projects, including custom libraries and gRPC contracts, supporting 500K+ concurrent users.  
+
+- Conducted testing and vulnerability fixes, enhancing security by 30% via Prometheus metrics.  
+
+- Assisted backend and QA teams, optimizing code to reduce latency by 25%.
+
+**Tech Stack:** Go, gRPC, NATS, PostgreSQL, Redis, ClickHouse, CI/CD, Terraform, Prometheus, Grafana, AWS.
+
+---
+
+## Golang Developer
+
+### Wildberries | December 2021 – June 2023
+
+- Built banking services from scratch (transfers, loans, balances), including Service Desk for support and B2C phone-based payments, simplifying processes for 100K+ users.  
+
+- Optimized card payment systems (Service Card Realizer) for 99.9% uptime with a focus on data security.  
+
+- Collaborated on implementations, cutting transaction processing time by 20%.
+
+**Tech Stack:** Go, gRPC, PostgreSQL, Redis, CI/CD, Terraform, Prometheus, Grafana, AWS, NATS.
+
+---
+ 
 Golang DeveloperAgrotech Platform | July 2021 – December 2021  Created a B2B platform for farmers with auctions, logistics, and optimal route calculations, integrating real-time APIs (market data, weather).  
 Implemented secure authentication, protecting data for 10K+ users.  
 Performed code reviews and testing, improving code quality by 25%.
