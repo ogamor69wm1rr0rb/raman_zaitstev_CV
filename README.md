@@ -85,11 +85,24 @@ Tech Stack: Go, gRPC, PostgreSQL, Redis.
 
 Contact Center ManagerBank | March 2020 – February 2021  Handled cold sales, VIP client management, and KPI development, honing communication and analytical skills.
 
- EducationBachelor of Economics
-University Name | Graduation Year: 20XX  Transferable skills: Data analytics and strategic thinking, applied to algorithmic development.
+---
 
- LanguagesRussian: Native  
-English: Upper-Intermediate (B2) – TOEFL/IELTS certified (if applicable)
+## Education
+
+### Bachelor of Economics
+UMITCO | Graduation Year: 2018  
+
+- Transferable skills: Data analytics and strategic thinking, applied to algorithmic development.
+
+---
+
+## Languages
+
+- **Belarusian:** Intermediate (B1)
+- **Russian:** Native  
+- **English:** Upper-Intermediate (B2)
+
+---
 
  Additional InformationCertifications: AWS Certified Developer, Advanced Golang (add specifics if available).  
 Open Source & Projects: Explore my GitHub repos for predictive algorithms and blockchain examples. Contributions to open-source communities.  
