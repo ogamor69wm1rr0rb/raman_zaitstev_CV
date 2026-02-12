@@ -1,8 +1,8 @@
 # Roman Zaitsau | Backend Developer  
 
-- 🧑‍💼 ![LinkedIn](https://www.linkedin.com/in/jwm1rr0rb/) 
-- 😺 ![GitHub](https://github.com/ogamor69wm1rr0rb) 
-- 📧 ogamor6996@gmail.com
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/jwm1rr0rb/) 
+- 😺 [GitHub](https://github.com/ogamor69wm1rr0rb) 
+- 📧 **ogamor6996@gmail.com**
 
 📍Minsk, Belarus | Backend Specialist with a focus on scalable systems and Golang 
 
