@@ -17,17 +17,18 @@ Experienced Golang Backend Developer with over 5 years in building scalable, hig
 ## Technical Skills
 
 
-| Category              | Skills                                                         |
-|:----------------------|:---------------------------------------------------------------|
-|Languages & Frameworks |Go, gRPC, REST API, Julia
-|Databases & Storage
-PostgreSQL, Redis, ClickHouse, MinIO
-Tools & Cloud
-Docker, Kubernetes, NATS, Kafka, Prometheus, Grafana, Terraform, CI/CD, Git, AWS
-Other
-Blockchain, Algorithmic Trading, Microservices, Problem Solving, Agile/Scrum
+| Category                | Skills                                                                            |
+|:------------------------|:----------------------------------------------------------------------------------|
+| Languages & Frameworks  | Go, gRPC, REST API, Julia                                                         |
+| Databases & Storage     | PostgreSQL, Redis, ClickHouse, MinIO                                              |
+| Tools & Cloud           | Docker, Kubernetes, NATS, Kafka, Prometheus, Grafana, Terraform, CI/CD, Git, AWS  |
+| Other                   | Blockchain, Algorithmic Trading, Microservices, Problem Solving, Agile/Scrum      |
 
- Professional ExperienceTech LeadAnalytical Platform Company | September 2023 – Present  Architected software for a predictive analytics platform using custom algorithms blending biological models (virus evolution, DNA sequencing) and probabilistic methods, improving prediction accuracy by 40%.  
+---
+
+ Professional Experience
+ 
+ Tech LeadAnalytical Platform Company | September 2023 – Present  Architected software for a predictive analytics platform using custom algorithms blending biological models (virus evolution, DNA sequencing) and probabilistic methods, improving prediction accuracy by 40%.  
 Built two products: a microservices-based risk management platform (handling 1M+ queries/day) and a monolithic algorithmic trader for peak performance.  
 Led team collaborations, integrated CI/CD pipelines, reducing deployment time by 50%.
 Tech Stack: Go, gRPC, Blockchain, Kafka, Docker, PostgreSQL, Redis, Julia, Prometheus, Grafana, AWS, NATS.
