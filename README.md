@@ -50,7 +50,7 @@ Experienced Golang Backend Developer with over 5 years in building scalable, hig
 
 - Assisted backend and QA teams, optimizing code to reduce latency by 25%.
 
-**Tech Stack:** Go, gRPC, NATS, PostgreSQL, Redis, ClickHouse, CI/CD, Terraform, Prometheus, Grafana, AWS.
+**Tech Stack:** Go, gRPC, NATS, PostgreSQL, Redis, ClickHouse, CI/CD, MinIO , Prometheus, Grafana.
 
 ---
 
@@ -87,7 +87,7 @@ Contact Center ManagerBank | March 2020 – February 2021  Handled cold sales, V
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Bachelor of Economics
 UMITCO | Graduation Year: 2018  
@@ -96,7 +96,7 @@ UMITCO | Graduation Year: 2018
 
 ---
 
-## Languages
+## 🌍 Languages
 
 - **Belarusian:** Intermediate (B1)
 - **Russian:** Native  
