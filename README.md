@@ -4,13 +4,13 @@
 - 😺 [GitHub](https://github.com/ogamor69wm1rr0rb) 
 - 📧 **ogamor6996@gmail.com**
 
-📍Minsk, Belarus | Backend Specialist with a focus on scalable systems and Golang 
+📍Minsk, Belarus | Golang Developer 
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Experienced Golang Backend Developer with over 5 years in building scalable, high-performance applications, including blockchain protocols and microservices architectures. Expertise in algorithmic analytics, code optimization, and solving complex problems. Developed predictive algorithms boosting accuracy by 35% and systems handling millions of daily requests. Fast learner with strong analytical skills, eager to contribute to innovative projects at FAANG/MANGA-level companies. 
+Experienced Golang Backend Developer with over 4 years in building scalable, high-performance applications, including blockchain protocols and microservices architectures. Expertise in algorithmic analytics, code optimization, and solving complex problems. Developed predictive algorithms boosting accuracy by 35% and systems handling millions of daily requests. Fast learner with strong analytical skills, eager to contribute to innovative projects at FAANG/MANGA-level companies. 
 
 ---
 
@@ -68,22 +68,46 @@ Experienced Golang Backend Developer with over 5 years in building scalable, hig
 
 ---
  
-Golang DeveloperAgrotech Platform | July 2021 – December 2021  Created a B2B platform for farmers with auctions, logistics, and optimal route calculations, integrating real-time APIs (market data, weather).  
-Implemented secure authentication, protecting data for 10K+ users.  
-Performed code reviews and testing, improving code quality by 25%.
-Tech Stack: Go, gRPC, PostgreSQL, Redis.
+## Golang Developer
+RusAgro(DigitalFarmer) | July 2021 – December 2021  
 
-Golang DeveloperCRM & Telemedicine Projects | February 2021 – September 2021  Developed TeleDoctor for remote consultations with video, scheduling, and EMR, enhancing accessibility for 50K+ patients.  
-Built CRM systems for banking and car wash operations, automating sales funnels and tracking, boosting efficiency by 30%.  
-Supported contract negotiations, bridging tech and business.
-Tech Stack: Go, gRPC, PostgreSQL, Redis.
+- Created a B2B platform for farmers with auctions, logistics, and optimal route calculations, integrating real-time APIs (market data, weather).  
+- Implemented secure authentication, protecting data for 10K+ users.  
+- Performed code reviews and testing, improving code quality by 25%.
+**Tech Stack:** Go, gRPC, MySQL.
 
-Golang DeveloperNetworking & Legal Projects | March 2020 – February 2021  Developed full-stack admin panel for routers and text depersonalization system for thousands of documents, ensuring GDPR compliance.  
-Optimized network services for seamless data transmission.  
-Analyzed requirements for Supreme Court projects, delivering high-quality solutions.
-Tech Stack: Go, gRPC, PostgreSQL, Redis.
+---
 
-Contact Center ManagerBank | March 2020 – February 2021  Handled cold sales, VIP client management, and KPI development, honing communication and analytical skills.
+## Golang Developer
+InnoTech Solution | February 2021 – September 2021  
+
+- Developed TeleDoctor for remote consultations with video, scheduling, and EMR, enhancing accessibility for 50K+ patients.  
+- Built CRM systems for banking and car wash operations, automating sales funnels and tracking, boosting efficiency by 30%.  
+- Supported contract negotiations, bridging tech and business.
+**Tech Stack:** Go, gRPC, PostgreSQL, Redis.
+
+---
+
+## Golang Developer
+ITTAS | March 2020 – February 2021  
+
+- Developed full-stack admin panel for routers and text depersonalization system for thousands of documents, ensuring GDPR compliance.  
+- Optimized network services for seamless data transmission.  
+- Analyzed requirements for Supreme Court projects, delivering high-quality solutions.
+**Tech Stack:** Go, gRPC, PostgreSQL, Redis.
+
+---
+
+## Manager
+Belarusbank - 500 | July 2017 - February 2019 
+
+
+## Manager
+BelarusBank - Call Center | September 2016 - July 2017
+
+
+## Manager
+Contact Center ManagerBank |  Handled cold sales, VIP client management, and KPI development, honing communication and analytical skills.
 
 ---
 
@@ -104,7 +128,7 @@ UMITCO | Graduation Year: 2018
 
 ---
 
- Additional InformationCertifications: AWS Certified Developer, Advanced Golang (add specifics if available).  
+Additional InformationCertifications: AWS Certified Developer, Advanced Golang (add specifics if available).  
 Open Source & Projects: Explore my GitHub repos for predictive algorithms and blockchain examples. Contributions to open-source communities.  
 Interests: Open Source, Machine Learning in Finance, Backend Optimization.
 
