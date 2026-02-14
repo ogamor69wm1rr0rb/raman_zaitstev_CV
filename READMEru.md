@@ -144,7 +144,7 @@ UMITCO | 2018
 
 ## 📌 Дополнительная информация
 
-- Сертификат: [Go Certificate]((https://github.com/ogamor69wm1rr0rb/raman_zaitstev_CV/blob/main/img/Screenshot%20from%202026-02-14%2012-13-48.png)) (июль 2023)  Mangtas Issued Jul 2023 Credential ID 4598401
+- Сертификат: [Go Certificate](https://github.com/ogamor69wm1rr0rb/raman_zaitstev_CV/blob/main/img/Screenshot%20from%202026-02-14%2012-13-48.png) (июль 2023)  Mangtas Issued Jul 2023 Credential ID 4598401
 
 
 ---
