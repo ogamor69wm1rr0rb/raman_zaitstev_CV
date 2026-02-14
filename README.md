@@ -27,102 +27,106 @@ Experienced Golang Backend Developer with over 4 years in building scalable, hig
 ---
 
 ## 💼 Professional Experience
- 
- ## Golang Developer
- 
- ### Analytical Platform Company | September 2023 – Present  
- 
- - Architected software for a predictive analytics platform using custom algorithms blending biological models (virus evolution, DNA sequencing) and probabilistic methods, improving prediction accuracy by 40%.  
-- Built two products: a microservices-based risk management platform (handling 1M+ queries/day) and a monolithic algorithmic trader for peak performance.  
-- Led team collaborations, integrated CI/CD pipelines, reducing deployment time by 50%.
 
-**Tech Stack:** Go, gRPC, Blockchain, Kafka, Docker, PostgreSQL, Redis, Julia, Prometheus, Grafana, AWS, NATS.
+### Golang Developer  
+**Analytical Platform Company** | September 2023 – Present  
 
----
+- Designed and implemented a predictive analytics platform using proprietary algorithms (biological models + probabilistic methods), achieving 80–100% forecasting accuracy depending on time intervals.  
+- Developed two products:
+  - Algorithmic trading system for price prediction.
+  - High-performance monolithic algorithmic trader optimized for maximum execution speed.
 
-## Golang Developer
-
-### AI Technology | September 2023 – May 2024
-
-- Developed microservices architecture for gaming projects, including custom libraries and gRPC contracts, supporting 500K+ concurrent users.  
-
-- Conducted testing and vulnerability fixes, enhancing security by 30% via Prometheus metrics.  
-
-- Assisted backend and QA teams, optimizing code to reduce latency by 25%.
-
-**Tech Stack:** Go, gRPC, NATS, PostgreSQL, Redis, ClickHouse, CI/CD, MinIO , Prometheus, Grafana.
+**Technologies:** Go, gRPC, Blockchain, Docker, PostgreSQL, Redis, Prometheus, Grafana, NATS, MinIO.
 
 ---
 
-## Golang Developer
+### Golang Developer  
+**AI Technology** | September 2023 – May 2024  
 
-### Wildberries | December 2021 – June 2023
+- Designed and developed a microservices architecture for gaming projects, supporting 100K+ concurrent users.  
+- Improved system security through monitoring and metrics implementation.  
+- Optimized backend services for better performance and reliability.  
+- Contributed to system architecture design and developed the most high-load core service consisting of 5 microservices:
+  - Winning Bets Service (publishing winning bets to analytics via NATS)  
+  - Betting Service (processing and analyzing all in-game user actions)  
+  - Game Collections Service (manual and automated collections for personalized game selection)  
+  - Games Service (game launch, search, management, and updates)  
+  - Providers Service (integration and interaction with game providers)
 
-- Built banking services from scratch (transfers, loans, balances), including Service Desk for support and B2C phone-based payments, simplifying processes for 100K+ users.  
-
-- Optimized card payment systems (Service Card Realizer) for 99.9% uptime with a focus on data security.  
-
-- Collaborated on implementations, cutting transaction processing time by 20%.
-
-**Tech Stack:** Go, gRPC, PostgreSQL, Redis, CI/CD, Terraform, Prometheus, Grafana, AWS, NATS.
-
----
- 
-## Golang Developer
-RusAgro(DigitalFarmer) | July 2021 – December 2021  
-
-- Created a B2B platform for farmers with auctions, logistics, and optimal route calculations, integrating real-time APIs (market data, weather).  
-- Implemented secure authentication, protecting data for 10K+ users.  
-- Performed code reviews and testing, improving code quality by 25%.
-
-**Tech Stack:** Go, gRPC, MySQL.
+**Technologies:** Go, gRPC, NATS, PostgreSQL, Redis, ClickHouse, CI/CD, MinIO, Prometheus, Grafana.
 
 ---
 
-## Software Developer
-InnoTech Solution | February 2021 – September 2021  
+### Golang Developer  
+**Wildberries** | December 2021 – June 2023  
 
-- Developed TeleDoctor for remote consultations with video, scheduling, and EMR, enhancing accessibility for 50K+ patients.  
-- Built CRM systems for banking and car wash operations, automating sales funnels and tracking, boosting efficiency by 30%.  
-- Supported contract negotiations, bridging tech and business.
+- Developed a Telegram-based Service Desk system.  
+- Implemented monitoring and metrics using Prometheus and Grafana.  
+- Developed and tested User Service components.
 
-**Tech Stack:** Go, gRPC, PostgreSQL, Redis.
-
----
-
-## Python Developer
-ITTAS | March 2020 – February 2021  
-
-- Developed full-stack admin panel for routers and text depersonalization system for thousands of documents, ensuring GDPR compliance.  
-- Optimized network services for seamless data transmission.  
-- Analyzed requirements for Supreme Court projects, delivering high-quality solutions.
-
-**Tech Stack:** Go, gRPC, PostgreSQL, Redis.
+**Technologies:** Go, gRPC, PostgreSQL, Redis, CI/CD, Terraform, Prometheus, Grafana, AWS (S3), Kafka.
 
 ---
 
-## Manager
-Belarusbank - 500 | July 2017 - February 2019 
+### Golang Developer  
+**RusAgro (DigitalFarmer)** | July 2021 – December 2021  
 
-- Customer Service.
-- VIP Client Services.
-- Back Office Work, Bank Payment Cards Department.
+- Worked with MySQL, database administration and moderation.  
+- Implemented monitoring and metrics using Prometheus and Grafana.  
+- Developed microservices architecture components.
 
+**Technologies:** Go, gRPC, MySQL.
 
-## Manager
-BelarusBank - Call Center | September 2016 - July 2017
+---
 
-- Customer Service
-- Sales
-- Development of KPIs and scripts for cold calling.
+### Software Developer  
+**InnoTech Solution** | February 2021 – September 2021  
 
+- Developed TeleDoctor platform for online consultations (video calls, scheduling, EMR).  
+- Worked with CRM systems and developed custom modules for Odoo ERP & CRM.  
+- Participated in contract negotiations, bridging technical and business teams.
 
-## Manager
-Contact Center ManagerBank |  Handled cold sales, VIP client management, and KPI development, honing communication and analytical skills.
+**Technologies:** Go, Python, gRPC, PostgreSQL, Redis.
 
-- Customer Service
-- Sales
-- Development of KPIs and scripts for cold calling.
+---
+
+### Python Developer  
+**ITTAS** | March 2020 – February 2021  
+
+- Developed an admin panel for routers and a GDPR-compliant text depersonalization system.  
+- Optimized network services for stable and efficient data transmission.  
+- Analyzed requirements for government projects and developed a data anonymization service.
+
+**Technologies:** Go, gRPC, PostgreSQL, Redis.
+
+---
+
+## Manager  
+**Belarusbank - 500** | July 2017 – February 2019  
+
+- Customer service.  
+- VIP client support.  
+- Back-office operations, bank payment cards department.
+
+---
+
+## Manager  
+**Belarusbank - Call Center** | September 2016 – July 2017  
+
+- Customer service.  
+- Sales.  
+- KPI development and cold-calling script creation.
+
+---
+
+## Manager  
+**Contact Center Manager**  
+
+- Cold sales operations.  
+- VIP client management.  
+- KPI development and performance analytics.  
+- Customer service and sales.
+
 
 ---
 
@@ -143,9 +147,8 @@ UMITCO | Graduation Year: 2018
 
 ---
 
-Additional Information Certifications: [Go Certificate](https://github.com/ogamor69wm1rr0rb/raman_zaitstev_CV/blob/main/img/Screenshot%20from%202026-02-14%2012-13-48.png) - Mangtas Issued Jul 2023 Credential ID 4598401/
-Open Source & Projects: Explore my GitHub repos for predictive algorithms and blockchain examples. Contributions to open-source communities.  
-Interests: Open Source, Machine Learning in Finance, Backend Optimization.
+- Additional Information Certifications: [Go Certificate](https://github.com/ogamor69wm1rr0rb/raman_zaitstev_CV/blob/main/img/Screenshot%20from%202026-02-14%2012-13-48.png) - Mangtas Issued Jul 2023 Credential ID 4598401
+- Open Source & Projects: Explore my GitHub repos for predictive algorithms and blockchain examples. Contributions to open-source communities.  
 
 This resume is tailored for backend roles. Open to opportunities in scalable systems and innovative tech. Let's connect! 
 
