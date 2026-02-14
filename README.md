@@ -28,7 +28,7 @@ Experienced Golang Backend Developer with over 4 years in building scalable, hig
 
 ## 💼 Professional Experience
  
- ## Tech Lead
+ ## Golang Developer
  
  ### Analytical Platform Company | September 2023 – Present  
  
@@ -74,26 +74,29 @@ RusAgro(DigitalFarmer) | July 2021 – December 2021
 - Created a B2B platform for farmers with auctions, logistics, and optimal route calculations, integrating real-time APIs (market data, weather).  
 - Implemented secure authentication, protecting data for 10K+ users.  
 - Performed code reviews and testing, improving code quality by 25%.
+
 **Tech Stack:** Go, gRPC, MySQL.
 
 ---
 
-## Golang Developer
+## Software Developer
 InnoTech Solution | February 2021 – September 2021  
 
 - Developed TeleDoctor for remote consultations with video, scheduling, and EMR, enhancing accessibility for 50K+ patients.  
 - Built CRM systems for banking and car wash operations, automating sales funnels and tracking, boosting efficiency by 30%.  
 - Supported contract negotiations, bridging tech and business.
+
 **Tech Stack:** Go, gRPC, PostgreSQL, Redis.
 
 ---
 
-## Golang Developer
+## Python Developer
 ITTAS | March 2020 – February 2021  
 
 - Developed full-stack admin panel for routers and text depersonalization system for thousands of documents, ensuring GDPR compliance.  
 - Optimized network services for seamless data transmission.  
 - Analyzed requirements for Supreme Court projects, delivering high-quality solutions.
+
 **Tech Stack:** Go, gRPC, PostgreSQL, Redis.
 
 ---
@@ -101,13 +104,25 @@ ITTAS | March 2020 – February 2021
 ## Manager
 Belarusbank - 500 | July 2017 - February 2019 
 
+- Customer Service.
+- VIP Client Services.
+- Back Office Work, Bank Payment Cards Department.
+
 
 ## Manager
 BelarusBank - Call Center | September 2016 - July 2017
 
+- Customer Service
+- Sales
+- Development of KPIs and scripts for cold calling.
+
 
 ## Manager
 Contact Center ManagerBank |  Handled cold sales, VIP client management, and KPI development, honing communication and analytical skills.
+
+- Customer Service
+- Sales
+- Development of KPIs and scripts for cold calling.
 
 ---
 
@@ -128,7 +143,7 @@ UMITCO | Graduation Year: 2018
 
 ---
 
-Additional InformationCertifications: AWS Certified Developer, Advanced Golang (add specifics if available).  
+Additional Information Certifications: [Go Certificate](https://github.com/ogamor69wm1rr0rb/raman_zaitstev_CV/blob/main/img/Screenshot%20from%202026-02-14%2012-13-48.png) - Mangtas Issued Jul 2023 Credential ID 4598401/
 Open Source & Projects: Explore my GitHub repos for predictive algorithms and blockchain examples. Contributions to open-source communities.  
 Interests: Open Source, Machine Learning in Finance, Backend Optimization.
 
